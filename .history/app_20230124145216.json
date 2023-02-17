@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Donut Shop",
+    "slug": "Donut_Shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/donutSplashSquare.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/donutSplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/donutSplashSquare.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/donutSplashSquare.png"
+    }
+  }
+}

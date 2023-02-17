@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Donut Shop",
+    "slug": "Donut_Shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/UberEatsIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/UberEatsSplashSquare.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/UberEatsIcon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.jimpesenti.Donut_Shop"
+    },
+    "web": {
+      "favicon": "./assets/UberEatsSplashSquare.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f9829a27-76a9-45e0-83e7-faedbf7b037c"
+      }
+    }
+  }
+}
