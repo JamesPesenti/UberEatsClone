@@ -1,5 +1,5 @@
 # UberEatsClone
-I created a  full stack Uber Eats Clone app using React Native and AWS Amplify for the back end/Authentication
+I created a  full stack Uber Eats User Clone app using React Native and AWS Amplify for the back end/Authentication
 
 
 <img width="592" alt="Screenshot_20230218_015838" src="https://user-images.githubusercontent.com/74566532/219883930-ac1011ac-3926-4aeb-8e4f-ff7b45f7d025.png">
